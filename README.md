@@ -1,8 +1,8 @@
-<img src="https://th.bing.com/th/id/R.030d79644f497a8e06c7ed38f6cd550d?rik=czQ5KJg%2b2CVzrw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fb%2fe%2f3%2f1086532-programmer-wallpapers-1920x1080-for-hd.jpg&ehk=JTC9Jym7Q09HesMCLWD7ZxrZYQ91jvcVR74jeMdwsN4%3d&risl=&pid=ImgRaw&r=0">
+
 <h1 align="center">Hi 👋, I'm Arjun Yadav</h1>
 <h3 align="center">Full Stack developer</h3>
 
-<p align="left"> <img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="yadavarjun182" /> </p>
+<p align="left"> <img height="400px" width="600px" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="yadavarjun182" /> </p>
 
 - 🌱 I’m currently learning **NodeJs after react**
 
@@ -15,7 +15,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rAdqPXeteAVv2BjlB9oDq85Dt5SAfIh3/view?usp=sharing](https://drive.google.com/file/d/1rAdqPXeteAVv2BjlB9oDq85Dt5SAfIh3/view?usp=sharing)
 
 - ⚡ Fun fact **You can ask a silly doubt**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arjun-yadav-4a3518168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-yadav-4a3518168" height="30" width="40" /></a>
