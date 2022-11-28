@@ -4,7 +4,7 @@
 
 <p align="left"> <img height="400px" width="600px" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="yadavarjun182" /> </p>
 
-- 🌱 I’m currently learning **NodeJs after react**
+- 🌱 I’m currently learning MERN Stack
 
 - 👨‍💻 All of my projects are available at [https://yadavarjun182.github.io/](https://yadavarjun182.github.io/)
 
