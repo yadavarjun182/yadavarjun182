@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Arjun Yadav</h1>
 <h3 align="center">Full Stack Web developer</h3>
+<div width="100%" display="flex">
+<h4 align="left">- I'm a Full Stack Web Developer with a specialization in MERN stack </h4>
+<h4 align="left">- Currently looking for a new opprtunity</h4>
+</div>
+<br/>
 
 <p align="left"> <img height="400px" margin-left="200px" width="1200px" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="yadavarjun182" /> </p>
 
@@ -39,11 +44,7 @@
 <div align="center">
 
 
-<div width="100%" display="flex">
-<h3 align="left">- I'm a Full Stack Web Developer with a specialization in MERN stack </h3>
-<h3 align="left">- Currently looking for a new opprtunity 🤖</h3>
-</div>
-<br/>
+
 
 
 ## 🙋‍♂️ About Me
