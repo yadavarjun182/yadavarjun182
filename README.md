@@ -3,6 +3,7 @@
 <h3 align="center">Full Stack Web developer</h3>
 <div width="100%" display="flex">
 <h4 align="left">- I'm a Full Stack Web Developer with a specialization in MERN stack </h4>
+ <p>Having hands-on experience of more than 1200+ hours on coding, solving DSA problems and building logical abilities </p>
 <h4 align="left">- Currently looking for a new opprtunity</h4>
 </div>
 <br/>
