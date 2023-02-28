@@ -2,8 +2,10 @@
 <h1 align="center">Hi 👋, I'm Arjun Yadav</h1>
 <h3 align="center">Full Stack Web developer</h3>
 <div width="100%" display="flex">
-<h4 align="left">- I'm a Full Stack Web Developer with a specialization in MERN stack </h4>
- <p>Having hands-on experience of more than 1200+ hours on coding, solving DSA problems and building logical abilities </p>
+<h4 align="left">-
+Web Developer with over 1200+ hours of hands-on experience in developing web applications. 
+spend 400+ hours in data structures and building developing logic. Skilled in HTML, CSS, JavaScript, React, Node.js, MongoDB. Passionate about creating user-friendly and visually appealing websites.  </h4>
+
 <h4 align="left">- Currently looking for a new opprtunity</h4>
 </div>
 <br/>
