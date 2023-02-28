@@ -4,9 +4,9 @@
 <div width="100%" display="flex">
 <h4 align="left">-
 Web Developer with over 1200+ hours of hands-on experience in developing web applications. 
-spend 400+ hours in data structures and building developing logic. Skilled in HTML, CSS, JavaScript, React, Node.js, MongoDB. Passionate about creating user-friendly and visually appealing websites. I am actively seeking a developer job and have been researching and applying to positions that match my skills and experience. I am confident in my abilities and am eager to learn new technologies. I am also open to learning new programming languages and frameworks. I am committed to staying up-to-date. </h4>
+spend 400+ hours in data structures and building developing logic. Skilled in HTML, CSS, JavaScript, React, Node.js, MongoDB. Passionate about creating user-friendly and visually appealing websites. I am actively seeking a developer job that match my skills and experience. I am a passionate web developer am eager to learn new technologies. I am also open to learning new programming languages and frameworks. I am committed to staying up-to-date. </h4>
 
-<h4 align="left">- Currently looking for a new opprtunity</h4>
+
 </div>
 <br/>
 
