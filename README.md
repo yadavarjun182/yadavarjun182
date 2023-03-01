@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Arjun Yadav</h1>
 <h3 align="center">Full Stack Web developer</h3>
 <div width="100%" display="flex">
