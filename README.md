@@ -28,7 +28,7 @@ spend 400+ hours in data structures and building developing logic. Skilled in HT
 
 <p aling="left" width="48%" height="300">
 
-- 🌱 Learning ** Web Development from Masai School**
+- 🌱 Learned ** Web Development from Masai School**
 
 - 👯 I’m looking to work as **Full Stack Web Developer**
 
